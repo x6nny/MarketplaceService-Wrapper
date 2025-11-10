@@ -312,7 +312,7 @@ MarketplaceService.ProcessReceipt = processReceipt
 
 ## ⚖️ License
 
-**MIT License © [YourNameHere]**
+**MIT License ©**
 
 You’re free to use, modify, and distribute this module in both commercial and non-commercial Roblox projects.
 
